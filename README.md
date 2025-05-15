@@ -9,6 +9,7 @@
 ## HR Workforce capacity Analytics Dashboard
 
 ### Project Overview
+---
 
 In this HR analytics project, I developed a in-depth Power BI dashboard by integrating insights from three separate text files: Employee Data, Training & Development, and Recruitment.After performing thorough data cleaning and transformation, I utilized DAX to build custom measures and KPIs, enabling dynamic analysis of key HR metrics.
 
@@ -116,4 +117,18 @@ This HR Analytics Dashboard delivers actionable insights into the organization�
 ### Limitations
 
 During the development of the HR dashboard, I encountered limitations related to inconsistent and unnecessary data, particularly with date fields and blank rows. These issues affected the accuracy of filtering and overall dashboard performance. To resolve this, I cleaned and transformed the data using tools in the Power Query ribbon removing redundant entries and handling null values to ensure smooth functionality and prevent potential breakdowns in the analysis.
-    
+
+😄
+
+💻
+
+|Heading1|Heading2|
+|-------|-------|
+|Content|Content2|
+|Excel|Power BI|
+
+column_1
+
+**bold**
+
+*italic*
