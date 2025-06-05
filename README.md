@@ -118,17 +118,7 @@ This HR Analytics Dashboard delivers actionable insights into the organization�
 
 During the development of the HR dashboard, I encountered limitations related to inconsistent and unnecessary data, particularly with date fields and blank rows. These issues affected the accuracy of filtering and overall dashboard performance. To resolve this, I cleaned and transformed the data using tools in the Power Query ribbon removing redundant entries and handling null values to ensure smooth functionality and prevent potential breakdowns in the analysis.
 
-😄
 
 💻
 
-|Heading1|Heading2|
-|-------|-------|
-|Content|Content2|
-|Excel|Power BI|
 
-column_1
-
-**bold**
-
-*italic*
